@@ -74,6 +74,7 @@
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vionaosiako&show_icons=true&theme=dark&locale=en" alt="vionaosiako" /></p></a>  
   </p>
 </p>
+</p>
 </div>
 <hr>
 <br>
