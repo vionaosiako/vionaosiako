@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on any project that seek to solve real world problems and better human lives.
 - 💬 Ask me about Tech, Web development.
 - ⚡ Intrested in Devops and Machine learning.
-- 📫 How to reach me: <a href="mailto:okunzopeter01@gmail.com">okunzopeter01@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:osiakoviona@gmail.com">osiakoviona@gmail.com</a>
 - 😄 Pronouns: He,Him
 <!-- - ⚡ Fun fact:  -->
 
