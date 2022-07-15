@@ -67,12 +67,10 @@
 <div style="display: block;">
 <p>
   <h3>Stats:</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=vionaosiako&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="vionaosiako" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vionaosiako&show_icons=true&theme=dark&locale=en" alt="vionaosiako" /></p></a>  
-  </p>
+<div align="center">
+  <img height="150rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=vionaosiako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vionaosiako&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 </p>
 </p>
 </div>
