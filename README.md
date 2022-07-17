@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+a<!-- ## Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Viona Osiako</h1>
 <h3 align="center">Graduate from Moringa School, Fullstack Developer🌟.</h3>
@@ -7,7 +7,7 @@
     alt="vionaosiako" /> 
   </p>
   
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="vionaosiako" /></p>
+DX  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="vionaosiako" /></p>
 <!-- ABOUT YOU -->
 <!-- **vionaosiako/vionaosiako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -68,8 +68,8 @@
 <p>
   <h3>Stats:</h3>
 <div align="center">
-  <img height="150rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=vionaosiako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vionaosiako&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=vionaosiako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vionaosiako&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </p>
 </p>
