@@ -68,7 +68,7 @@
 <p>
   <h3>Stats:</h3>
   <div align="center">
-  <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=edwinnduti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=vionaosiako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="190rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vionaosiako&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
